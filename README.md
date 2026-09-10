@@ -10,13 +10,13 @@
 
 <br/>
 
-<a href="https://github.com/fqof/FQoF-Nexus/releases/latest/download/FQoF_Nexus.exe">
+<a href="https://github.com/fqof/FQoF-Nexus/releases/latest/download/FQoF.Nexus.exe">
   <img src="https://img.shields.io/badge/СКАЧАТЬ_КЛИЕНТ-v2.5_Windows_(.exe)-09090b?style=for-the-badge&logo=windows&logoColor=white" alt="Скачать FQoF Nexus" height="46" />
 </a>
 
 <br/><br/>
 
-[📥 **Нажмите здесь, чтобы скачать последнюю версию (.exe)**](https://github.com/fqof/FQoF-Nexus/releases/latest/download/FQoF_Nexus.exe)
+[📥 **Нажмите здесь, чтобы скачать последнюю версию (.exe)**](https://github.com/fqof/FQoF-Nexus/releases/latest/download/FQoF.Nexus.exe)
 
 </div>
 
