@@ -1,0 +1,26 @@
+# Secrets and Private Server Data
+secrets.json
+user_settings.json
+profile.json
+
+# Build and Executables
+dist/
+build/
+*.spec
+*.exe
+
+# Python
+__pycache__/
+*.py[cod]
+*.class
+*.env
+.venv/
+venv/
+
+# Rust
+target/
+
+# OS and Temporary
+.DS_Store
+Thumbs.db
+*.log
